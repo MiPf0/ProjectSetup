@@ -1,0 +1,83 @@
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Player - Song Pale Blue added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Don't want you back added to playlist.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Player - Song Do I wanna know? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Don't want you back added to playlist.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Player - Song R U mine? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Pale Blue added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Deutschland added to playlist.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.Service - No device found.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.Player - Playlist not playable.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.Service - No device found.
+[main] ERROR org.lecture.exam.Player - Playlist not playable.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Player - Song Pale Blue added to playlist.
+[main] ERROR org.lecture.exam.Service - No device found.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Player - Song Pale Blue added to playlist.
+[main] ERROR org.lecture.exam.Service - No device found.
+[main] ERROR org.lecture.exam.Service - No device found.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] INFO  org.lecture.exam.Player - Song Do I wanna know? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song R U mine? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Fireside added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Deutschland added to playlist.
+[main] ERROR org.lecture.exam.Player - Playlist not playable.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] INFO  org.lecture.exam.Player - Song Do I wanna know? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song R U mine? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Don't want you back added to playlist.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] ERROR org.lecture.exam.Player - Previous song not playable.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] INFO  org.lecture.exam.Player - Song Do I wanna know? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song R U mine? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Fireside added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Don't want you back added to playlist.
+[main] ERROR org.lecture.exam.Service - No device found.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] ERROR org.lecture.exam.Player - Previous song not playable.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] ERROR org.lecture.exam.Player - Previous song not playable.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] INFO  org.lecture.exam.Player - Song R U mine? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Fireside added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Don't want you back added to playlist.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] INFO  org.lecture.exam.Player - Song Do I wanna know? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song R U mine? added to playlist.
+[main] INFO  org.lecture.exam.Player - Song Fireside added to playlist.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR org.lecture.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] INFO  org.lecture.exam.Driver - new Service created.
+[main] ERROR o.l.exam.filehandlers.FileReader - Song Pale Blue had no album - therefore it is not taken to the list.
+[main] ERROR org.lecture.exam.Player - Playlist not playable.
+[main] INFO  org.lecture.exam.Player - Song Don't want you back added to playlist.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
+[main] ERROR org.lecture.exam.Player - Next song not playable.
